@@ -25,3 +25,19 @@ The basic idea of Zenora is that it's an online space where people can make and 
 
 ### Course Detail 
 ![Course Detail](/public/images/course-detail.png "course details")
+
+
+## MVP Goals
+* Users can create a course with multiple lessons and publish it to the site for others to view
+* Users can view other courses
+* Users can 
+
+## Potential Roadblocks
+* Working out how courses and products interact (join table? can courses be products, other things be products)
+* How Course > Module > Lessons models work, I would like lessons to be able to belong to many courses, but also they can be part of a course in top level or part of a module within a course
+
+## Stretch Goals
+* Points system for creating and completing courses
+* Stripe payment integration
+* Drag and drop re-order interface for course creation
+* !! (Super Stretch) course creation tools - audio recording and slide editing..
