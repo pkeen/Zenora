@@ -17,8 +17,11 @@ The basic idea of Zenora is that it's an online space where people can make and 
 
 ## Wireframes
 
-### Course View
+### Course View Open
 #### Desktop
 ![Course View](/public/images/course-view.png "Course view")
 #### Mobile
 ![Course view mobile](/public/images/mobile-course-view.png "mobile course view")
+
+### Course Detail 
+![Course Detail](/public/images/course-detail.png "course details")
