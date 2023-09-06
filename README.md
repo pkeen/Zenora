@@ -13,7 +13,7 @@ The basic idea of Zenora is that it's an online space where people can make and 
 * Stripe (payments)
 
 ## Entity Relation Diagram
-![Zenora ERD](/public/images/ERD%20Zenora.png "Zenora ERD")
+![Zenora ERD](/public/images/erd-diagram.png "Zenora ERD")
 
 ## Wireframes
 
